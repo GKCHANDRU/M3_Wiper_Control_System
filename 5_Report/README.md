@@ -1,7 +1,7 @@
 ### HIGH LEVEL PLAN:
 
-| S.no | High level  | 
-| :---:| :---: | 
+| S.no | High level  |  Description |
+| :---:| :---: | :---: |
 | 1 | HLR1 |  STM32CubeIDE | 
 | 2 | HLR2 | Cygwin | 
 | 3 | HLR3 | Qemu | 
@@ -11,8 +11,8 @@
 
 ### LOW LEVEL PLAN:
 
-| S.no | Low level |
-| :---: | :---: | 
+| S.no | Low level | Description |
+| :---: | :---: | :---: | 
 | 1 | LlR1 | Red LED ON |  
 | 2 | LlR2 | Blue LED frequency 1Hz |
 | 3 | LlR3 | Green LED frequency 4Hz |
@@ -21,7 +21,7 @@
 
 
 
-#### ACTIVITY:
+### ACTIVITY:
 
 ## BLOCK DIAGRAM:
 
