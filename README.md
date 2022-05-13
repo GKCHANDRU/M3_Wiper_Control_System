@@ -3,7 +3,7 @@
 
 
 ##  Badges
-* Codacy - Static Code Analysis
+* Codacy - Static Code Analysis [![Codacy Badge](https://app.codacy.com/project/badge/Grade/a5e537ecdddf4280ad805a314e3cdcd0)](https://www.codacy.com/gh/GKCHANDRU/M3_Wiper_Control_System/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=GKCHANDRU/M3_Wiper_Control_System&amp;utm_campaign=Badge_Grade)
 
 * Codiga - Static Code Analysis
 * Codiga - Static Grade Analysis
