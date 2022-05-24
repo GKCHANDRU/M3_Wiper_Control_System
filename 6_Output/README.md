@@ -19,6 +19,4 @@
 
 ![PRESS   HELD FOR 2 SEC](https://user-images.githubusercontent.com/85924451/168422452-4d63e48b-d160-439b-b538-a1cbc94ec9d4.PNG)
 
-6. Wiper_System 1
 
-![WIPER SYSTEM 1](https://user-images.githubusercontent.com/85924451/168422496-40f16202-aa74-47c0-
